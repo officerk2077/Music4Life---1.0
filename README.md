@@ -12,9 +12,7 @@
 ## 🚀 Tải xuống (Download)
 👉 **[TẢI XUỐNG MUSIC4LIFE (Bộ cài đặt tự động) TẠI ĐÂY](https://github.com/officerk2077/Music4Life---1.0/raw/main/Music4Life_Setup_v1.0.exe)**
 *(Lưu ý: Nếu Windows Defender hiện cảnh báo màu xanh, hãy bấm **More info** -> **Run anyway** vì đây là phần mềm do sinh viên tự phát triển, chưa mua chứng chỉ doanh nghiệp).*
-
-**[KHO NHẠC MIỄN PHÍ ĐA DẠNG THỂ LOẠI](https://drive.google.com/drive/folders/1b0h4eg4hb21dYMFLMpEJnx6ApZofiT2D?usp=sharing)**
-
+👉 **[KHO NHẠC MIỄN PHÍ ĐA DẠNG THỂ LOẠI](https://drive.google.com/drive/folders/1b0h4eg4hb21dYMFLMpEJnx6ApZofiT2D?usp=sharing)**
 ---
 
 ## ✨ Tính năng nổi bật của Music4Life
